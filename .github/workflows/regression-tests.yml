@@ -18,6 +18,9 @@ on:
       - "skills/ad-creative/assets/creative-review-template.html"
       - ".github/workflows/regression-tests.yml"
 
+permissions:
+  contents: read
+
 concurrency:
   group: regression-tests-${{ github.ref }}
   cancel-in-progress: true
@@ -28,6 +31,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v6
+        with:
+          persist-credentials: false
 
       - name: Run validate-skills.sh regression tests
         run: bash tests/run-regression.sh
@@ -37,6 +42,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v6
+        with:
+          persist-credentials: false
 
       - name: Set up Node
         uses: actions/setup-node@v4
