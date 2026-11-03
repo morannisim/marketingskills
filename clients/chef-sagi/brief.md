@@ -2,23 +2,39 @@
 
 Case study #1 for Moran Nissim. Organic Instagram only (no paid), started November 2026.
 
+> Source of truth for Sagi is Moran's Mac: `~/.claude/skills/chefsagi/SKILL.md` and the memory files there. This file is a summary so content written from this repo does not contradict them (updated 2026-11-03).
+
 ## The business
 
-- Chef with 40 years in kitchens, from the Upper Galilee (Kibbutz Snir area). Returned to the North after the war.
-- Product: house-made sausages (נקניקיות) and kebabs. **Fixed menu.** Delivery to towns across the North (חלוקה ביישובי הצפון).
-- Website: chefsagilevi.co.il. Orders via WhatsApp.
+- Chef with 40 years in kitchens, from Mahanayim in the Galilee. After the war moved to the Arava; his heart is in the North. Not a "celebrity chef".
+- Line: "השרקוטרי של שגיא", נקניקיות וקבבים "של שגיא". Logo slogan: "עובר את גבול הטעם הטוב".
+- Message: **"האוכל שלי חוזר לצפון. בלי שטויות בפנים."**
+- 12 flavours (6 sausages, 6 kebabs), fixed. Sold per kilo or in packs: 3 ק"ג נקניקיות, 3 ק"ג קבבים, 6 ק"ג מהכול. Free delivery from 2 kg.
+- Delivery areas (say exactly this): הגליל העליון, רמת הגולן ועמק הירדן.
+- Orders on the site chefsagilevi.co.il (Shopify, open since 1.11). "המלאי באתר פתוח" is allowed in content.
+- Supplier: משק טנא (never tagged). Product claims (kosher, allergens) go through מעיין.
 
-## The weekly cycle (fixed, drives everything)
+## Hard rules (from Moran's summary, 3.11.2026)
+
+- First person in all content ("האוכל שלי חוזר לצפון"). "האוכל", never "הטעמים". "תבחרו טעם".
+- **No delivery days, hours, order cut-off or "החלוקה הקרובה" anywhere** until Moran approves a wording. Allowed: "המלאי באתר פתוח", "משלוח חינם מ-2 ק"ג", "משלוח עד הבית בצפון", the delivery areas.
+- Never "מושלם", "מדהים", "בעבודת יד". Never describe the making process. The stuffing machine is not a topic.
+- No prices. No politics, no ethnicity jokes, no war escalation (longing and coming home only). No "celebrity chef".
+- Instagram: 3–5 hashtags, "הקישור בביו". Facebook: no hashtags, no links; write "הקישור לאתר בראש הדף", "עקבו אחרי הדף".
+- Moran approves every item before scheduling. Design choices: show 2–3 options side by side.
+- Music only from Instagram's library, added by Moran; a reel planned for a boost goes up without music.
+
+## The weekly cycle (internal; days and hours never appear in content)
 
 | Day | What happens | Content job |
 |---|---|---|
-| **Friday** | Marketing for next week's batch starts | Teaser: the menu, "המלאי נפתח ביום ראשון" |
+| **Friday** | Marketing for next week's batch starts | Teaser: the food, "המלאי באתר פתוח" |
 | Saturday | Pre-orders warm up | Reel: Sagi in the field / kitchen, one line about the product |
-| **Sunday** | **Stock opens** | "המלאי נפתח": how to order, stories all day, pinned post refreshed |
+| **Sunday** | **Stock opens** | how to order (site link in bio), stories all day, pinned post refreshed |
 | Monday | Production | Behind the scenes (מאחורי הקלעים) |
 | Tuesday | Deliveries begin | Value: how to cook / serve; a tip from Sagi |
 | Wednesday | Deliveries | Social proof: customers' plates, messages (with permission) |
-| Thursday | Stock runs down | Last call / "נגמר", then log the week's numbers |
+| Thursday | Stock runs down | Thank-you / what people cooked, then log the week's numbers |
 
 ## Positioning (already live in the bio)
 
@@ -40,9 +56,9 @@ Case study #1 for Moran Nissim. Organic Instagram only (no paid), started Novemb
 
 ## Goal to January 2027
 
-- Primary metric: **orders that say "הגעתי מאינסטגרם"** per week (WhatsApp link with a prefilled message).
+- Primary metric: orders on the site attributed to Instagram (Shopify referrer) and WhatsApp messages that mention Instagram.
 - Secondary: followers, views / 30 days, best reel of the week.
-- Every reel ends with the same line: "עקבו, כל שבוע מלאי חדש מהצפון."
+- Every reel ends with: "עקבו לעוד מהאוכל שלי."
 
 ## Fixes requested (Nov 2026)
 

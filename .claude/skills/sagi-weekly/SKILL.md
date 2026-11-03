@@ -27,20 +27,22 @@ For each day give: **format** (reel / carousel / photo / designed tile), **hook*
 
 | Day | Job | Default format |
 |---|---|---|
-| Fri | Teaser: menu + "המלאי נפתח ביום ראשון" | designed tile or carousel of the menu |
+| Fri | Teaser: the food, "המלאי באתר פתוח" | designed tile or carousel |
 | Sat | Sagi in the field / kitchen, one product line | reel, 15–30s |
-| Sun | **המלאי נפתח**: how to order, link, delivery towns | reel or tile + stories all day |
+| Sun | How to order (site, link in bio), delivery areas | reel or tile + stories all day |
 | Mon | Behind the scenes: production | reel or photo set |
 | Tue | Value: how to cook / serve, Sagi's tip | reel |
 | Wed | Social proof: customers' plates / messages | carousel |
-| Thu | Last call / נגמר + thank you | tile or story-first |
+| Thu | Thank you / what people cooked | tile or story-first |
 
 Rules:
-- Every reel ends with: **"עקבו, כל שבוע מלאי חדש מהצפון."**
-- Every order CTA points to the WhatsApp link with the prefilled text "היי שגיא, הגעתי מאינסטגרם".
+- First person always ("האוכל שלי"). "האוכל", never "הטעמים".
+- **Never** delivery days, hours, cut-off times or "החלוקה הקרובה". Never "בעבודת יד", "מושלם", "מדהים"; never describe the making.
+- Every reel ends with: **"עקבו לעוד מהאוכל שלי."**
+- Order CTA: Instagram "הקישור בביו" (the site); Facebook "הקישור לאתר בראש הדף", no hashtags, no links.
 - Keep the 1:2 ratio: at most 2 designed tiles among the 7 posts.
-- Sagi's message is always "בלי שטויות בפנים". Never discount language ("מבצע", "רק היום").
-- Write for people in the North: name towns on the route when known.
+- Sagi's message is always "האוכל שלי חוזר לצפון. בלי שטויות בפנים." Never discount language or prices.
+- Delivery areas, exactly: הגליל העליון, רמת הגולן ועמק הירדן.
 
 ### 3. Reel scripts
 For each reel: 3 beats (hook 0–3s, body, close), and what Sagi says on camera in his own words (short, spoken Hebrew).
@@ -54,6 +56,7 @@ One idea to shoot on Monday (production day) for the following week.
 
 ## Quality bar
 
-- Hebrew, spoken, no hashtag-stuffing inside captions.
+- Hebrew, spoken. Instagram 3–5 hashtags; Facebook none.
+- Everything is a draft until Moran approves it.
 - No claims about numbers or health. No "הכי טעים בצפון".
 - If a day has nothing new, cut it rather than pad it. Six strong posts beat seven weak ones.
