@@ -6,7 +6,7 @@ Log every **Thursday** after the stock closes. One row per week. Views are the I
 |---|---|---|---|---|---|---|---|
 | baseline (before) | 30 | 0 | 807 | ? | not tracked | none | no bio, no order path |
 | 2026-11-03 (read) | 41 | ~8 | 830 | 55.1K | not tracked | 4,716 | bio + highlights live |
-| | | | | | | | |
+| 2026-11-06 | | | | | | | למלא ביום חמישי |
 
 ## Case study skeleton (fill from the table)
 
