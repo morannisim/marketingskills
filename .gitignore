@@ -32,3 +32,8 @@ skills-lock.json
 .partners-pending/
 
 __pycache__/
+
+# Moran Nissim: personal brand context, skills and agents are tracked in this fork
+!.agents/product-marketing.md
+!.claude/
+.claude/settings.local.json
