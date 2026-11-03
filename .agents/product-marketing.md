@@ -70,6 +70,8 @@ Competitors sell price ("ניהול סושיאל ב-600 ₪"), exposure, and pac
 - Business account (to open): @moran.nissim. Category: Marketing Agency.
 - Bio: מורן ניסים | שיווק דיגיטלי בשיטה / תוכן שבונה אוטוריטה לעסק שלכם / בלי לנחש מה לפרסם. בלי לצלם כל יום. / לשיחת אבחון ↓
 - Highlights: השיטה · שירותים · לקוחות · טיפים · עליי
+- CTA link: a Google Form "שיחת אבחון" (not WhatsApp; Moran is not available for live chats). Form fields: שם, שם העסק, תחום, אינסטגרם של העסק, מה הכי מפריע לכם בשיווק היום (בחירה), טלפון, מתי נוח לדבר. Confirmation: "תודה. אני עוברת על הטופס ואחזור אליכם תוך 2 ימי עסקים."
+- Posting cadence: 3 posts a week (Sun / Tue / Thu). The 9 founding posts go out over 3 weeks, in grid order.
 - Personal account (@moran.nisim) stays personal; bio points to the business account.
 
 ## Clients
