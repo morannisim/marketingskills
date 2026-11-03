@@ -31,7 +31,7 @@ Case study #1 for Moran Nissim. Organic Instagram only (no paid), started Novemb
 | **Friday** | Marketing for next week's batch starts | Teaser: the food, "המלאי באתר פתוח" |
 | Saturday | Pre-orders warm up | Reel: Sagi in the field / kitchen, one line about the product |
 | **Sunday** | **Stock opens** | how to order (site link in bio), stories all day, pinned post refreshed |
-| Monday | Production | Behind the scenes (מאחורי הקלעים) |
+| Monday | Production (not shown) | Sagi talking: a saying, a story from the field |
 | Tuesday | Deliveries begin | Value: how to cook / serve; a tip from Sagi |
 | Wednesday | Deliveries | Social proof: customers' plates, messages (with permission) |
 | Thursday | Stock runs down | Thank-you / what people cooked, then log the week's numbers |
@@ -62,7 +62,7 @@ Case study #1 for Moran Nissim. Organic Instagram only (no paid), started Novemb
 
 ## Fixes requested (Nov 2026)
 
-1. WhatsApp link in bio with prefilled text "היי שגיא, הגעתי מאינסטגרם" so orders can be counted.
+1. Attribution: Shopify referrer report for Instagram, plus WhatsApp messages that mention Instagram.
 2. Business category set so the order button shows.
 3. A reason to follow in the bio (followers hear about the Sunday stock first).
 4. Keep the designed-tile ratio at 1:2.

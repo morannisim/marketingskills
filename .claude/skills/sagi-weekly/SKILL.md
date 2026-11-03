@@ -23,14 +23,14 @@ What this week is about (standard week, or the special note).
 
 ### 2. Seven posts, one per day
 
-For each day give: **format** (reel / carousel / photo / designed tile), **hook** (first line on screen), **caption** (Hebrew, 2–5 short lines, Sagi's voice: direct, warm, zero fluff), **CTA**, **hashtags** (8–12, mix of הצפון / גליל / אוכל / שם היישוב), **stories** (2–3 prompts for that day).
+For each day give: **format** (reel / carousel / photo / designed tile), **hook** (first line on screen), **caption** (Hebrew, 2–5 short lines, Sagi's voice: direct, warm, zero fluff), **CTA**, **hashtags** (Instagram only, 3–5), **stories** (2–3 prompts for that day).
 
 | Day | Job | Default format |
 |---|---|---|
 | Fri | Teaser: the food, "המלאי באתר פתוח" | designed tile or carousel |
 | Sat | Sagi in the field / kitchen, one product line | reel, 15–30s |
 | Sun | How to order (site, link in bio), delivery areas | reel or tile + stories all day |
-| Mon | Behind the scenes: production | reel or photo set |
+| Mon | Sagi talking: a saying, a story from the field (never the making process) | reel |
 | Tue | Value: how to cook / serve, Sagi's tip | reel |
 | Wed | Social proof: customers' plates / messages | carousel |
 | Thu | Thank you / what people cooked | tile or story-first |
