@@ -45,7 +45,7 @@ Feed rules: at most 2 dark (Ebony) tiles per 9; never two dark tiles adjacent.
 
 ## Visual identity
 
-- Palette (Silk & Ebony, light): Linen #EEEDEB (40%), Ash #D3D2CF (20%), Stone #BCB9B5 (15%), Greige #8A847D (10%, secondary text), Ebony #5A554F (10%, the only dark), Ink #2B2825 (5%). No brown, no blue, no accent colour: photos and Moran's face carry the colour.
+- Palette (ג3: warm, deeper Silk & Ebony): Linen #E1DCD1 (40%), Ash #B7B2A7 (20%), Stone #A49D91 (15%), Greige #7A7162 (10%, secondary text), Ebony #4E4639 (10%, the only dark), Ink #30281C (5%). Text on Ebony: #ECE7DD. No brown, no blue, no accent colour: photos and Moran's face carry the colour.
 - Feed style: editorial (Silk & Ebony / Gulf Haus). Small serif type (Frank Ruhl Libre 300) with hairlines, MN monogram in Cormorant, embossed MN on Ebony. At most 2 dark tiles per 9. Photo tiles once a shoot exists.
 - Type: Jost 300 wide-tracked for English/logo; Bellefair for the Hebrew logo; Frank Ruhl Libre 300 for feed headlines; Noto Sans Hebrew 300 for running text.
 - Logo: MORΛN NISSIM in Jost, letter-spacing .42em. Monogram MN. Hebrew logo "מורן ניסים" in Bellefair.
