@@ -36,17 +36,18 @@ This file is read by every skill in this repo before it writes marketing copy. K
 
 | Type | Share | Colour | Job |
 |---|---|---|---|
-| ערך (VALUE) | 40% | Plaster | problem-solving posts people save and send |
-| שיטה (METHOD) | 25% | Graphite | the four foundations, step by step, shown on real work |
-| אוטוריטה (AUTHORITY) | 20% | Porcelain | professional stance, case studies, results |
-| הנעה לפעולה (ACTION) | 15% | Taupe | one clear invitation, no "מבצע" |
+| ערך (VALUE) | 40% | Ash | problem-solving posts people save and send |
+| שיטה (METHOD) | 25% | Ebony | the four foundations, step by step, shown on real work |
+| אוטוריטה (AUTHORITY) | 20% | Linen | professional stance, case studies, results |
+| הנעה לפעולה (ACTION) | 15% | Stone | one clear invitation, no "מבצע" |
 
-Feed rules: at most 2 dark tiles per 9; never two dark tiles adjacent; Taupe once per row, on a diagonal.
+Feed rules: at most 2 dark (Ebony) tiles per 9; never two dark tiles adjacent.
 
 ## Visual identity
 
-- Palette: Porcelain #F8F7F5 (40%), Plaster #E2E1DD (20%), Taupe #B7A99F (15%, signature), Stone #7A746E (10%), Graphite #434140 (10%), Ink #1F1F1F (5%).
-- Type: Jost 300 wide-tracked for English/logo; Bellefair for Hebrew headlines and the Hebrew logo; Noto Sans Hebrew 300 for running text.
+- Palette (Silk & Ebony, light): Linen #EEEDEB (40%), Ash #D3D2CF (20%), Stone #BCB9B5 (15%), Greige #8A847D (10%, secondary text), Ebony #5A554F (10%, the only dark), Ink #2B2825 (5%). No brown, no blue, no accent colour: photos and Moran's face carry the colour.
+- Feed style: editorial (Silk & Ebony / Gulf Haus). Small serif type (Frank Ruhl Libre 300) with hairlines, MN monogram in Cormorant, embossed MN on Ebony. At most 2 dark tiles per 9. Photo tiles once a shoot exists.
+- Type: Jost 300 wide-tracked for English/logo; Bellefair for the Hebrew logo; Frank Ruhl Libre 300 for feed headlines; Noto Sans Hebrew 300 for running text.
 - Logo: MORΛN NISSIM in Jost, letter-spacing .42em. Monogram MN. Hebrew logo "מורן ניסים" in Bellefair.
 - Brand book (source of truth): https://claude.ai/artifact/5TazQ3HsBZ9GXrJSYNSLtM
 
