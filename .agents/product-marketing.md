@@ -78,3 +78,8 @@ Competitors sell price ("ניהול סושיאל ב-600 ₪"), exposure, and pac
 ## Clients
 
 - **Chef Sagi Levi** (@chefsagi): see `clients/chef-sagi/brief.md`. Case study #1.
+
+## Working with Moran
+
+- Show a small sample (one feed preview or swatches) and wait for her choice before regenerating the brand book or the kit. Never rebuild everything on a guess.
+- Keep work lean: short replies, one question at a time, small previews instead of full renders.
