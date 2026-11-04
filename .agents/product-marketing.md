@@ -10,35 +10,35 @@ This file is read by every skill in this repo before it writes marketing copy. K
 - **Where**: based in the North of Israel (confrontation line). Serves all of Israel digitally; the North is the origin story and the launch market. Never brand as "marketing for the North".
 - **Owner voice**: Moran, female, first person allowed in content, not required in brand messages. Customers are addressed in plural ("אתם").
 
-## Positioning
+## Positioning (approved 4.11.2026)
 
-- **Headline**: שיווק בשיטה. לא בניחוש.
-- **Statement**: שיטה במקום ניסוי וטעייה. / תוכנית במקום לחץ. / אוטוריטה במקום רעש.
-- **Lead**: לבעלי עסקים שרוצים להיראות כמו המובילים בתחום שלהם: בלי לנחש מה לפרסם, בלי לצלם כל יום, ובלי לשלם על ניסוי וטעייה.
-- **Origin line** (for "about" and sales calls only, not the logo): בניתי עסק מקו העימות. אני יודעת מה זה לשווק כשאין שקט. לכן יש לי שיטה.
+- **Headline**: מעסק למותג.
+- **Sub-headline**: מותג שזוכרים. נוכחות שמרגישים.
+- **One line**: מומחית לשיווק דיגיטלי: אסטרטגיה, תוכן, ניהול וקמפיינים, תחת קורת גג אחת.
+- **Secondary slogan** (closing line of reels, posts and invitations): עד שיחפשו אתכם בשם.
+- **Audience**: all businesses (not only small ones).
+- **Origin story** (reel 1, about): built a permanent-makeup clinic at home in the North in 2023; the war came and it never opened; today the room is her studio and she builds brands for other businesses. Say it in one sentence, no drama.
 
-## The method: שיטת ארבעת היסודות
+## The process: ארבעה שלבים
 
-1. **קהל**: למי מדברים, מה כואב להם, מה הם כבר ניסו.
-2. **מסר**: מה אומרים ולמה דווקא אתם. מסר אחד.
-3. **תוכן**: מערכת תוכן חודשית בארבעה סוגים, לא פוסט-פוסט.
-4. **מדידה**: מה הביא פניות, מה לא, מה משנים בחודש הבא.
+1. **קהל**: מכירים לעומק את מי שרוצים להגיע אליו.
+2. **מסר**: משפט אחד שהלקוח זוכר ומספר הלאה.
+3. **תוכן**: תוכנית חודשית שמציגה את העסק במיטבו.
+4. **מדידה**: לומדים מה עובד ומחזקים אותו בכל חודש.
 
-## Brand pillars (one line each)
+## Three messages
 
-- שיטה: ארבעה יסודות לפני הפוסט הראשון.
-- אוטוריטה: לא עוקבים. לקוחות שרואים בכם מומחים.
-- שקט: הרבה תוכן. אפס רעש. ערך בכל פוסט.
-- שקט נפשי: תוכנית חודשית מוכנה. בלי לצלם כל יום.
-- התאמה אישית: אסטרטגיה לעסק שלכם. לא חבילה מהמדף.
+- **אסטרטגיה**: כל פוסט, סטורי וקמפיין נשען על תוכנית מוגדרת.
+- **מעטפת מלאה**: מהאסטרטגיה ועד הקמפיין, הכול מנוהל במקום אחד.
+- **מובילות**: תוכן מקצועי שמציב את העסק בין המובילים בתחומו.
 
 ## Content system (Moran's own feed)
 
 | Type | Share | Colour | Job |
 |---|---|---|---|
 | ערך (VALUE) | 40% | Pearl (framed photo) | problem-solving posts people save and send |
-| שיטה (METHOD) | 25% | full photo / Ebony | the four foundations, step by step, shown on real work |
-| אוטוריטה (AUTHORITY) | 20% | Ebony / Taupe text | professional stance, case studies, results |
+| תהליך (PROCESS) | 25% | full photo / Ebony | the four steps, one at a time, shown on real work |
+| מומחיות (EXPERTISE) | 20% | Ebony / Taupe text | professional insight, case studies, results |
 | הנעה לפעולה (ACTION) | 15% | Pearl (portrait) | one clear invitation, no "מבצע" |
 
 Feed rules: at most 2 solid dark (Ebony/Taupe) text tiles per 9; never two dark tiles adjacent.
@@ -53,25 +53,26 @@ Feed rules: at most 2 solid dark (Ebony/Taupe) text tiles per 9; never two dark 
 
 ## Voice
 
-Short sentences. Clear contrast ("X instead of Y"). No hype, no promises on numbers or timelines.
+Positive and inspiring: say what is possible, not what to avoid. Professional, the voice of an expert. Short sentences. No hype, no promises on numbers or timelines.
 
-- Use: שיטה, יסודות, אוטוריטה, תוכנית, מדידה, שקט, מומחיות, פניות.
-- Avoid: חשיפה, עוקבים, ויראלי, מבצע!!!, חבילה, ניהול סושיאל, קסם, תוצאות מיידיות.
+- Use: מותג, נוכחות, אסטרטגיה, תוכנית, מומחיות, מובילים, ערך, מדידה, פניות.
+- Never: שיטה, אוטוריטה, שקט, בטופ, צמיחה, השפעה; and the market's words: חשיפה, עוקבים, ויראלי, מבצע, חבילה, ניהול סושיאל, קסם, תוצאות מיידיות.
+- Avoid negation framing ("בלי X", "במקום Y", "לא X. Y.") in Moran's own lines.
 
 ## Market (Israel, Nov 2026)
 
-Competitors sell price ("ניהול סושיאל ב-600 ₪"), exposure, and packages by platform count. Nobody in the category sells a named method, authority or quiet. That gap is the positioning.
+Competitors sell price ("ניהול סושיאל ב-600 ₪"), exposure, and packages by platform count. Moran sells the brand: full service from strategy to campaign, and a business people search for by name.
 
 ## Slogans
 
-שיווק בשיטה. לא בניחוש. · לא עוד פוסטים. אוטוריטה. · ארבעה יסודות. אפס ניחושים. · המותג שלכם לא צריך לצעוק. · אתם מנהלים את העסק. השיווק מטופל. · הרבה תוכן. אפס רעש.
+מעסק למותג. · מותג שזוכרים. נוכחות שמרגישים. · עד שיחפשו אתכם בשם.
 
 ## Instagram
 
 - Business account (to open): @moran.nissim. Category: Marketing Agency.
-- Bio: מורן ניסים | שיווק דיגיטלי בשיטה / תוכן שבונה אוטוריטה לעסק שלכם / בלי לנחש מה לפרסם. בלי לצלם כל יום. / לשיחת אבחון ↓
-- Highlights: השיטה · שירותים · לקוחות · טיפים · עליי
-- CTA link: a Google Form "שיחת אבחון" (not WhatsApp; Moran is not available for live chats). Form fields: שם, שם העסק, תחום, אינסטגרם של העסק, מה הכי מפריע לכם בשיווק היום (בחירה), טלפון, מתי נוח לדבר. Confirmation: "תודה. אני עוברת על הטופס ואחזור אליכם תוך 2 ימי עסקים."
+- Bio: מורן ניסים | שיווק דיגיטלי / מעסק למותג. / אסטרטגיה · תוכן · ניהול · קמפיינים / לשיחת אבחון ↓
+- Highlights: התהליך · שירותים · לקוחות · טיפים · עליי
+- CTA link: a Google Form "שיחת אבחון" (not WhatsApp; Moran is not available for live chats). Form fields: שם, שם העסק, תחום, אינסטגרם של העסק, מה הייתם רוצים לשפר בשיווק (בחירה), טלפון, מתי נוח לדבר. Confirmation: "תודה. אני עוברת על הטופס ואחזור אליכם תוך 2 ימי עסקים."
 - Posting cadence: 3 posts a week (Sun / Tue / Thu). The 9 founding posts go out over 3 weeks, in grid order.
 - Personal account (@moran.nisim) stays personal; bio points to the business account.
 
