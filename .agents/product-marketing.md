@@ -36,17 +36,17 @@ This file is read by every skill in this repo before it writes marketing copy. K
 
 | Type | Share | Colour | Job |
 |---|---|---|---|
-| ערך (VALUE) | 40% | Ash | problem-solving posts people save and send |
-| שיטה (METHOD) | 25% | Ebony | the four foundations, step by step, shown on real work |
-| אוטוריטה (AUTHORITY) | 20% | Linen | professional stance, case studies, results |
-| הנעה לפעולה (ACTION) | 15% | Stone | one clear invitation, no "מבצע" |
+| ערך (VALUE) | 40% | Cream / Blush | problem-solving posts people save and send |
+| שיטה (METHOD) | 25% | Charcoal | the four foundations, step by step, shown on real work |
+| אוטוריטה (AUTHORITY) | 20% | Cream | professional stance, case studies, results |
+| הנעה לפעולה (ACTION) | 15% | Powder | one clear invitation, no "מבצע" |
 
-Feed rules: at most 2 dark (Ebony) tiles per 9; never two dark tiles adjacent.
+Feed rules: at most 2 dark (Charcoal) tiles per 9; never two dark tiles adjacent.
 
 ## Visual identity
 
-- Palette (ג3: warm, deeper Silk & Ebony): Linen #E1DCD1 (40%), Ash #B7B2A7 (20%), Stone #A49D91 (15%), Greige #7A7162 (10%, secondary text), Ebony #4E4639 (10%, the only dark), Ink #30281C (5%). Text on Ebony: #ECE7DD. No brown, no blue, no accent colour: photos and Moran's face carry the colour.
-- Feed style: editorial (Silk & Ebony / Gulf Haus). Small serif type (Frank Ruhl Libre 300) with hairlines, MN monogram in Cormorant, embossed MN on Ebony. At most 2 dark tiles per 9. Photo tiles once a shoot exists.
+- Palette (charcoal, cream & powder): Cream #F3EBE0 (45%), Blush #E8D6CC (15%), Powder #D9A99B (15%, signature: action tile, monogram, accents), Smoke #7A6E68 (5%, secondary text), Charcoal #262321 (20%, dark tiles and all text). Text on Charcoal: Cream.
+- Feed style: editorial (Silk & Ebony / Gulf Haus). Small serif type (Frank Ruhl Libre 300) with hairlines, MN monogram in Cormorant, Powder MN on Charcoal. At most 2 dark tiles per 9. Photo tiles once a shoot exists.
 - Type: Jost 300 wide-tracked for English/logo; Bellefair for the Hebrew logo; Frank Ruhl Libre 300 for feed headlines; Noto Sans Hebrew 300 for running text.
 - Logo: MORΛN NISSIM in Jost, letter-spacing .42em. Monogram MN. Hebrew logo "מורן ניסים" in Bellefair.
 - Brand book (source of truth): https://claude.ai/artifact/5TazQ3HsBZ9GXrJSYNSLtM
