@@ -14,10 +14,11 @@ This file is read by every skill in this repo before it writes marketing copy. K
 
 - **Headline**: מעסק למותג.
 - **Sub-headline**: מותג שזוכרים. נוכחות שמרגישים.
-- **One line**: מומחית לשיווק דיגיטלי: אסטרטגיה, תוכן, ניהול וקמפיינים, תחת קורת גג אחת.
+- **One line**: שיווק דיגיטלי ומיתוג: אסטרטגיה, תוכן, ניהול וקמפיינים, תחת קורת גג אחת.
 - **Secondary slogan** (closing line of reels, posts and invitations): עד שיחפשו אתכם בשם.
 - **Audience**: all businesses (not only small ones).
-- **Origin story** (reel 1, about): built a permanent-makeup clinic at home in the North in 2023; the war came and it never opened; today the room is her studio and she builds brands for other businesses. Say it in one sentence, no drama.
+- **Origin story** (reel 1, about): all her working life Moran found herself seeing what could be improved wherever she worked. In 2023 she built her own clinic at home in the North; the war came and it never opened. The room stayed, and what she always did became her profession: seeing what a business needs and building it a brand. The clinic is a chapter, not the lesson.
+- **Do not call Moran "מומחית"** in her own copy for now (two projects so far). Let the content and the case studies show the expertise.
 
 ## The process: ארבעה שלבים
 
