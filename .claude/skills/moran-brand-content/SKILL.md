@@ -21,7 +21,7 @@ Ask which one Moran wants; default to a **weekly pack of 3 posts** if she just s
 - **Hook**: the on-tile headline, in Bellefair style: short, positive and confident: what the reader can have. Max 8 words.
 - **Carousel slides** when the format is a carousel: 4–7 slides, one idea per slide, last slide is the CTA.
 - **Caption**: Hebrew, 3–6 short lines. First line repeats the hook. Plural "אתם" for readers. First person is fine for Moran's own experience.
-- **CTA**: one. For ערך/תהליך: "שמרו" or a question. For מומחיות: none or "ספרו לי". For הנעה: "לשיחת אבחון ↓".
+- **CTA**: one. For ערך/תהליך: "שמרו" or a question. For מומחיות: none or "ספרו לי". For הנעה: "לשיחת היכרות ↓".
 - **Hashtags**: 6–10, in Hebrew and English, no more.
 
 ## Voice guard

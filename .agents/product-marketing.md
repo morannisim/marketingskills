@@ -71,9 +71,9 @@ Competitors sell price ("ניהול סושיאל ב-600 ₪"), exposure, and pac
 ## Instagram
 
 - Business account (to open): @moran.nissim. Category: Marketing Agency.
-- Bio: מורן ניסים | שיווק דיגיטלי / מעסק למותג. / אסטרטגיה · תוכן · ניהול · קמפיינים / לשיחת אבחון ↓
+- Bio: מורן ניסים | שיווק דיגיטלי / מעסק למותג. / אסטרטגיה · תוכן · ניהול · קמפיינים / לשיחת היכרות ↓
 - Highlights: התהליך · שירותים · לקוחות · טיפים · עליי. Covers: thin-line icon, each circle a different palette colour from light to dark (Cream #E6E1D8, Silk, Taupe, Smoke, Ebony).
-- CTA link: a Google Form "שיחת אבחון" (not WhatsApp; Moran is not available for live chats). Form fields: שם, שם העסק, תחום, אינסטגרם של העסק, מה הייתם רוצים לשפר בשיווק (בחירה), טלפון, מתי נוח לדבר. Confirmation: "תודה. אני עוברת על הטופס ואחזור אליכם תוך 2 ימי עסקים."
+- CTA link: a Google Form "שיחת היכרות" (not WhatsApp; Moran is not available for live chats). Form fields: שם, שם העסק, תחום, אינסטגרם של העסק, מה הייתם רוצים לשפר בשיווק (בחירה), טלפון, מתי נוח לדבר. Confirmation: "תודה. אני עוברת על הטופס ואחזור אליכם תוך 2 ימי עסקים."
 - Posting cadence: 3 posts a week (Sun / Tue / Thu), always in threes so the grid never shifts. No single pinned post (pin 0 or 3).
 - Launch puzzle: posts 1–3 form one wide studio image across the bottom row (post 1 = right piece, 2 = middle with "מעסק למותג.", 3 = left). Each piece is a carousel cover; the slides inside carry the content. Replace with a wide shot of Moran in the studio after the shoot.
 - Personal account (@moran.nisim) stays personal; bio points to the business account.
