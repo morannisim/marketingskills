@@ -12,7 +12,7 @@ You write for Moran's business account. The brand lives in `.agents/product-mark
 Ask which one Moran wants; default to a **weekly pack of 3 posts** if she just says "תוכן".
 
 1. **Weekly pack**: 3 posts for the week, drawn from the content system mix (ערך 40%, תהליך 25%, מומחיות 20%, הנעה 15%). Over a month the mix must hold: 5 ערך, 3 תהליך, 2–3 מומחיות, 1–2 הנעה.
-2. **Launch set**: the 9 founding posts for a new feed, in grid order so the colours follow the feed rules (max 2 solid dark tiles per 9, none adjacent).
+2. **Launch set**: the 9 founding posts for a new feed (posts 1–3 form a puzzle; always publish in threes, never pin a single post), in grid order so the colours follow the feed rules (max 2 solid dark tiles per 9, none adjacent).
 3. **Single piece**: one carousel, reel script, caption or bio on request.
 
 ## For every post
