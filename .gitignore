@@ -32,3 +32,14 @@ skills-lock.json
 .partners-pending/
 
 __pycache__/
+
+# Keys and credential files
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa*
+id_ed25519*
+credentials.json
+service-account*.json
+.npmrc
