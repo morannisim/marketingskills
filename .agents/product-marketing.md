@@ -37,19 +37,22 @@ This file is read by every skill in this repo before it writes marketing copy. K
 
 | Type | Share | Colour | Job |
 |---|---|---|---|
-| ערך (VALUE) | 40% | Pearl (framed photo) | problem-solving posts people save and send |
-| תהליך (PROCESS) | 25% | full photo / Ebony | the four steps, one at a time, shown on real work |
-| מומחיות (EXPERTISE) | 20% | Ebony / Taupe text | professional insight, case studies, results |
-| הנעה לפעולה (ACTION) | 15% | Pearl (portrait) | one clear invitation, no "מבצע" |
+| ערך (VALUE) | 40% | B&W photo + pastel marker | problem-solving posts people save and send |
+| תהליך (PROCESS) | 25% | charcoal tile with a big number | the four steps, one at a time, shown on real work |
+| מומחיות (EXPERTISE) | 20% | photo or the one pastel tile | professional insight, case studies, results |
+| הנעה לפעולה (ACTION) | 15% | cream tile + handwritten "לשיחת היכרות ↓" | one clear invitation, no "מבצע" |
 
-Feed rules: at most 2 solid dark (Ebony/Taupe) text tiles per 9; never two dark tiles adjacent.
+Feed rules: see Visual identity.
 
-## Visual identity
+## Visual identity (approved 11.11.2026)
 
-- Palette (Silk & Ebony, exact, sampled from the pin): Pearl #CCCBC9 (light tiles), Silk #BCB9B5 (background), Taupe #877A6A (mid tiles), Ebony #494136 (dark tiles), Smoke #595247 (profile, highlights), Clay #8A786A (photo tone). Text: #4A4238 on light, #E2DCD3 on dark.
-- Feed style: Silk & Ebony exactly. Light tiles with a framed photo, small caps English label + Hebrew line; dark Ebony/Taupe text tiles with a hairline; full-bleed warm photos with caption at the bottom. Italic Cormorant MN monogram on every tile. Photos (interiors, materials, Moran) carry the brand; a half-day shoot is planned.
-- Type: Jost 300 wide-tracked for English/logo; Bellefair for the Hebrew logo; Frank Ruhl Libre 300 for feed headlines; Noto Sans Hebrew 300 for running text.
-- Logo: MORΛN NISSIM in Jost, letter-spacing .42em. Monogram MN. Hebrew logo "מורן ניסים" in Bellefair.
+- **Palette (pastel + charcoal)**: Charcoal #2F2E2C (dark tiles, text), Cream #FAF6F0 (light tiles, background), and five pastels used one at a time: Powder #F2D2CC, Butter #F5E9B4, Mint #CFE6DA, Sky #CBDCE8, Peach #F6CDB8.
+- **Type**: Karantina Bold for headlines and numbers (poster feel); Playpen Sans Hebrew 400 for handwritten notes, arrows and opening lines; Heebo for running text and slides; Jost 300 wide-tracked (.42em) for the English name.
+- **Logo**: a round stamp. In the centre a lowercase m drawn as a molecule (pastel nodes joined by thin charcoal lines); around it "MORΛN NISSIM · DIGITAL MARKETING" in Jost 300, the A without a crossbar. No name underneath. Profile picture: the stamp on cream (or the m molecule alone if the ring text is too small).
+- **Feed template**: black-and-white photos; headline bottom-right in Karantina; the key word on a pastel marker (colour rotates post to post); one handwritten note per post (Playpen) with a drawn arrow or circle; @moran.nissim small at the bottom.
+- **Feed rules**: one solid pastel tile per 9; at most 2 charcoal text tiles per 9, never adjacent; the rest photos or cream text tiles.
+- **Photos**: B&W. Moran without her face (hands, laptop, coffee, blazer, walking), the studio and the home. A half-day shoot is planned.
+- **Earlier identity** (Silk & Ebony, MN monogram, Frank Ruhl) is retired.
 - Brand book (source of truth): https://claude.ai/artifact/5TazQ3HsBZ9GXrJSYNSLtM
 
 ## Voice
@@ -72,10 +75,10 @@ Competitors sell price ("ניהול סושיאל ב-600 ₪"), exposure, and pac
 
 - Business account (to open): @moran.nissim. Category: Marketing Agency.
 - Bio: מורן ניסים | שיווק דיגיטלי / מעסק למותג. / אסטרטגיה · תוכן · ניהול · קמפיינים / לשיחת היכרות ↓
-- Highlights: התהליך · שירותים · לקוחות · טיפים · עליי. Covers: thin-line icon, each circle a different palette colour from light to dark (Cream #E6E1D8, Silk, Taupe, Smoke, Ebony).
+- Highlights: התהליך · שירותים · לקוחות · טיפים · עליי. Covers: cream background, a pastel circle per highlight (Powder, Butter, Mint, Sky, Peach) with a thin charcoal line icon.
 - CTA link: a Google Form "שיחת היכרות" (not WhatsApp; Moran is not available for live chats). Form fields: שם, שם העסק, תחום, אינסטגרם של העסק, מה הייתם רוצים לשפר בשיווק (בחירה), טלפון, מתי נוח לדבר. Confirmation: "תודה. אני עוברת על הטופס ואחזור אליכם תוך 2 ימי עסקים."
 - Posting cadence: 3 posts a week (Sun / Tue / Thu), always in threes so the grid never shifts. No single pinned post (pin 0 or 3).
-- Launch puzzle: posts 1–3 form one wide studio image across the bottom row (post 1 = right piece, 2 = middle with "מעסק למותג.", 3 = left). Each piece is a carousel cover; the slides inside carry the content. Replace with a wide shot of Moran in the studio after the shoot.
+- Launch row: no puzzle in the new identity. Posts 1–9 follow the feed template; grid order on the profile (newest top-left) is [9,8,7] [6,5,4] [3,2,1].
 - Personal account (@moran.nisim) stays personal; bio points to the business account.
 
 ## Clients
